@@ -5,7 +5,7 @@ package com.fortune.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World 2026!";
+    private static final String MESSAGE = "Hello World 2026 Welcome!";
 
     public App() {}
 
